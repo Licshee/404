@@ -9,7 +9,7 @@ Someday during the 2018 Chinese New Year Fest. I suddenly realized that it's alm
 So I decided to bring the old IIS one back to poke some fun & mark the unforgettable old days back then we fight for & against the Microsoft web stack.
 
 ## Copyrights?
-As of when I started writing this note, the current [404.html](404.html) is completely handcrafted, tho I put some effort into it to make the page looks identical to the old one.
+As of when I started writing this note, the current [404.html](404.html) is completely handcrafted, tho I put some effort into it to make the page looks identical to the old one from IIS 5.0.
 
 ## Anything else?
 I hope I can bring more typical "404" or other error pages to the site in the future, including the IE ones and IIS ones beside 5.0/404b.htm.
