@@ -1,7 +1,7 @@
 ## What is all this about?
 This is a place where we memorialize the history of 404 pages we grow together with.
 
-Currently we have a page mimics dat [ol' 404 page from IIS 5.0](404), in fact it's also the actual 404 message for this entire site.
+Currently we have a page mimics dat [ol' 404 page from IIS 5.0](404), in fact **it is the *ACTUAL* 404 message** for this entire site.
 
 ## Why?
 Someday during the 2018 Chinese New Year Fest. I suddenly realized that it's almost impossible for anyone nowadays to see the old IIS 404 page anymore, nor the IE5/6 404 page...
