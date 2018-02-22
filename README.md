@@ -1,5 +1,5 @@
 ## What is all this about?
-This is a place where we memorialize the history of 404 pages we grow together with.
+This is a place supposed to be where we memorialize the history of 404 pages we grow together with.
 
 Currently we have a page mimics dat [ol' 404 page from IIS 5.0](404), in fact **it is the *ACTUAL* 404 message** for this entire site.
 
