@@ -1,6 +1,3 @@
-# "404 NOT FOUND"
-The WWW "404 NOT FOUND" project
-
 ## What is all this about?
 This is a place where we memorialize the history of 404 pages we grow together with.
 
